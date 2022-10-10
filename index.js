@@ -73,7 +73,7 @@ function checkAnswer(currentLevel) {
       $("body").removeClass("game-over");
     }, 200);
     playSound("wrong");
-    $("h1").text("Game Over, Press  Restart");
+    $("h1").text("Game Over, Press  Reset");
 
     $("#restart").click(function () {
       animatePress($(this).attr("id"));

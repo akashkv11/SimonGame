@@ -75,3 +75,19 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+/* newly added css aside from boiler plate */
+p{
+  font-family: 'Press Start 2P', cursive;
+  color: #fff;
+}
+
+h2{
+  font-family: 'Press Start 2P', cursive;
+}
+
+.column{
+  width: 25%; 
+  height: 100%
+}
+
